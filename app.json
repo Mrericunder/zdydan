@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/kendage/zdydan",
+  "repository": "https://github.com/kendage/zdydan",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
